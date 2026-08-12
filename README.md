@@ -1,27 +1,197 @@
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Smit Kohale" /> </picture> </p> <p align="center"> <a href="https://github.com/smitkohale/review-authenticity-engine"><b>review-authenticity-engine</b></a> &nbsp;·&nbsp; <a href="https://www.gitskins.com">GitSkins</a> &nbsp;·&nbsp; <a href="https://github.com/smitkohale?tab=repositories">Projects</a> </p> <p align="center"> <img src="https://www.gitskins.com/api/section/wordmark?username=smitkohale&theme=aurora&label=Smit%20Kohale" width="100%" alt="Animated 3D wordmark for Smit Kohale" /> </p>
-Turning messy real-world data into systems people can trust
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0077BE,45:00A9D9,100:39D353&height=220&section=header&text=SMIT%20KOHALE&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20DATA%20%26%20ANALYTICS&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-I'm a Computer Science graduate based in Nagpur, India, focused on data analytics, geospatial analytics, and applied ML. My work spans satellite imagery, financial transactions, and review text — building pipelines and dashboards that surface what actually matters and cut down manual review effort.
+<p align="center">
 
-I build across data engineering, fraud/anomaly detection, and interactive dashboards. The common thread is making complex, high-volume data legible enough to act on.
+<a href="https://github.com/smitkohale">
+<img src="https://img.shields.io/badge/GitHub-0B3954?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="About Smit Kohale" /> </picture> </p>
-Selected work
-<p align="center"> <img src="https://www.gitskins.com/api/section/projects?username=smitkohale&theme=aurora" width="100%" alt="Selected projects by Smit Kohale" /> </p>
-Project	What it is
-APGuard	Rule-based Accounts Payable leakage & contract-compliance detection engine — 8 validation rules across a synthetic 50k+ invoice dataset, with a FastAPI backend and Streamlit dashboard.
-SentraScope	Environmental analytics platform unifying live AQI, NASA FIRMS thermal hotspots, UV, and Earth Engine urbanization data into one geospatial monitoring dashboard.
-review-authenticity-engine	Fraud & collusion-ring detection: a fine-tuned DistilBERT classifier plus a reviewer graph (NetworkX, Louvain community detection) with SHAP-based explanations.
-<p align="center"> <a href="https://github.com/smitkohale/review-authenticity-engine"><b>Explore review-authenticity-engine</b></a> &nbsp;·&nbsp; <a href="https://review-trust-engine.streamlit.app">Visit live demo</a> </p>
-Engineering signal
-<p align="center"> <img src="https://www.gitskins.com/api/section/stack?username=smitkohale&theme=aurora" width="100%" alt="Technology stack for Smit Kohale" /> </p> <p align="center"> <img src="https://www.gitskins.com/api/section/stats?username=smitkohale&theme=aurora" width="100%" alt="GitHub activity stats for Smit Kohale" /> </p>
-A profile that moves
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
+<a href="https://github.com/smitkohale?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-16A085?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/smitkohale/smitkohale/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" /> </p>
+</p>
 
-Set this up by running your profile once through GitSkins' README generator — it installs the GitHub Action that renders and commits this GIF for you.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=27&duration=3500&pause=900&color=0077BE&center=true&vCenter=true&width=850&lines=Turning+messy+data+into+useful+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Fraud+%26+Anomaly+Detection;Geospatial+Analytics;Applied+Machine+Learning"
+    alt="Typing introduction"
+  />
+</p>
 
-Current focus
-<p align="center"> <img src="https://www.gitskins.com/api/section/highlights?username=smitkohale&theme=aurora&items=Data%20analytics::Turning%20high-volume%20data%20into%20decisions|Fraud%20%26%20anomaly%20detection::Graph%20%2B%20ML%20approaches%20to%20trust%20%26%20safety|Geospatial%20analytics::Satellite%20imagery%20and%20remote%20sensing%20pipelines" width="100%" alt="Current focus areas for Smit Kohale" /> </p> <p align="center"> <a href="https://github.com/smitkohale?tab=repositories">See all repositories</a> &nbsp;·&nbsp; <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a> </p> <p align="center"> <sub>Designed with GitSkins. Built in public.</sub> </p>
+<p align="center">
+  🌊 <b>Data Analytics</b>
+  &nbsp;•&nbsp;
+  🌱 <b>Fraud Detection</b>
+  &nbsp;•&nbsp;
+  🌍 <b>Geospatial Analytics</b>
+  &nbsp;•&nbsp;
+  🤖 <b>Applied ML</b>
+</p>
+
+<br>
+
+---
+
+# 🌊 About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Turning complex data into something people can actually use.
+
+I'm a **Computer Science graduate based in Nagpur, India**, focused on **Data Analytics, Geospatial Analytics, and Applied Machine Learning**.
+
+I enjoy working with messy, high-volume datasets and turning them into systems that make patterns easier to see and decisions easier to make.
+
+My work spans:
+
+- 📊 Data analysis & visualization
+- 🐍 Python data pipelines
+- 🗄️ SQL analytics
+- 📈 Power BI dashboards
+- 🛰️ Satellite & geospatial data
+- 🔎 Fraud & anomaly detection
+- 🤖 Applied machine learning
+- 🧠 NLP & review authenticity
+- ⚙️ Data-driven applications
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,20&height=260&section=header&text=DATA&fontSize=42&fontColor=ffffff&animation=twinkling"
+width="100%"
+/>
+
+<br>
+
+🌍 **Data → Insight**
+
+🌊 **Insight → Decision**
+
+🌱 **Decision → Impact**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🫧 My Data Philosophy
+
+<p align="center">
+
+| 🌊 COLLECT | 🔎 ANALYZE | 📊 VISUALIZE | 🌱 ACT |
+|:---:|:---:|:---:|:---:|
+| Raw data | Patterns | Insights | Decisions |
+| APIs | Statistics | Dashboards | Automation |
+| Databases | ML | Power BI | Systems |
+| Satellite data | Anomalies | Charts | Business impact |
+
+</p>
+
+---
+
+# 🌍 Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 APGuard
+
+### Accounts Payable Leakage Detection
+
+A rule-based analytics engine designed to identify suspicious invoice activity and contract-compliance violations.
+
+**What it does**
+
+- Duplicate invoice detection
+- Price violation detection
+- Quantity mismatch detection
+- Contract compliance checks
+- Suspicious payment patterns
+- Explainable validation results
+
+**Stack**
+
+`Python` `SQL` `FastAPI` `Pandas` `Streamlit`
+
+<br>
+
+<a href="https://github.com/smitkohale/apguard">
+<img src="https://img.shields.io/badge/EXPLORE_APGUARD-0077BE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛰️ SentraScope
+
+### Environmental Analytics Platform
+
+A geospatial monitoring platform combining environmental data and satellite-derived urbanization information.
+
+**Data sources**
+
+- Air Quality
+- NASA FIRMS
+- UV data
+- Google Earth Engine
+- Sentinel-2
+- Urban expansion indicators
+
+**Stack**
+
+`Python` `Google Earth Engine` `Leaflet` `JavaScript` `APIs`
+
+<br>
+
+<a href="https://github.com/smitkohale/sentrascope">
+<img src="https://img.shields.io/badge/EXPLORE_SENTRASCOPE-16A085?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🕵️ Review Authenticity Engine
+
+### Fraud & Collusion Detection
+
+An ML system designed to detect potentially manipulated reviews and coordinated reviewer behavior.
+
+**Pipeline**
+
+```text
+Review Text
+     ↓
+Classification
+     ↓
+Reviewer Graph
+     ↓
+Community Detection
+     ↓
+Suspicious Clusters
+     ↓
+SHAP Explanations
