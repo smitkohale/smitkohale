@@ -1,38 +1,27 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=180&section=header&text=SMIT%20KOHALE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Geospatial%20%26%20Fraud%20Analytics&descAlignY=58&descSize=16" width="100%"/>
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Smit Kohale" /> </picture> </p> <p align="center"> <a href="https://github.com/smitkohale/review-authenticity-engine"><b>review-authenticity-engine</b></a> &nbsp;·&nbsp; <a href="https://www.gitskins.com">GitSkins</a> &nbsp;·&nbsp; <a href="https://github.com/smitkohale?tab=repositories">Projects</a> </p> <p align="center"> <img src="https://www.gitskins.com/api/section/wordmark?username=smitkohale&theme=aurora&label=Smit%20Kohale" width="100%" alt="Animated 3D wordmark for Smit Kohale" /> </p>
+Turning messy real-world data into systems people can trust
 
-Show Image Show Image Show Image
+I'm a Computer Science graduate based in Nagpur, India, focused on data analytics, geospatial analytics, and applied ML. My work spans satellite imagery, financial transactions, and review text — building pipelines and dashboards that surface what actually matters and cut down manual review effort.
 
-</div>
-🧭 About
+I build across data engineering, fraud/anomaly detection, and interactive dashboards. The common thread is making complex, high-volume data legible enough to act on.
 
-I'm a Computer Science graduate (2026) based in Nagpur, India, focused on data analytics, geospatial analytics, and applied ML. I like turning messy, real-world data — satellite imagery, transaction logs, review text — into systems people can actually trust and act on.
-
-🛰️ Built early-warning geospatial monitoring on Google Earth Engine at MRSAC (Maharashtra Remote Sensing Applications Centre)
-🕵️ Built a two-layer fraud/collusion detection system combining a fine-tuned DistilBERT classifier with graph-based reviewer analysis
-💰 Built a rule-based Accounts Payable leakage detection platform from a synthetic 50k+ invoice dataset
-🌱 Currently sharpening SQL, dashboarding, and analytics-engineering skills for data analyst roles
-🚀 Selected Projects
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="About Smit Kohale" /> </picture> </p>
+Selected work
+<p align="center"> <img src="https://www.gitskins.com/api/section/projects?username=smitkohale&theme=aurora" width="100%" alt="Selected projects by Smit Kohale" /> </p>
 Project	What it is
-APGuard	Rule-based Accounts Payable leakage & contract-compliance detection engine — 8 validation rules, PostgreSQL + FastAPI + Streamlit, tested against a synthetic 50k+ invoice dataset.
+APGuard	Rule-based Accounts Payable leakage & contract-compliance detection engine — 8 validation rules across a synthetic 50k+ invoice dataset, with a FastAPI backend and Streamlit dashboard.
 SentraScope	Environmental analytics platform unifying live AQI, NASA FIRMS thermal hotspots, UV, and Earth Engine urbanization data into one geospatial monitoring dashboard.
-Review Authenticity Engine	Fraud & collusion-ring detection: fine-tuned DistilBERT classifier + reviewer graph (NetworkX, Louvain community detection) + SHAP explanations. Live demo · Model
-<div align="center">
+review-authenticity-engine	Fraud & collusion-ring detection: a fine-tuned DistilBERT classifier plus a reviewer graph (NetworkX, Louvain community detection) with SHAP-based explanations.
+<p align="center"> <a href="https://github.com/smitkohale/review-authenticity-engine"><b>Explore review-authenticity-engine</b></a> &nbsp;·&nbsp; <a href="https://review-trust-engine.streamlit.app">Visit live demo</a> </p>
+Engineering signal
+<p align="center"> <img src="https://www.gitskins.com/api/section/stack?username=smitkohale&theme=aurora" width="100%" alt="Technology stack for Smit Kohale" /> </p> <p align="center"> <img src="https://www.gitskins.com/api/section/stats?username=smitkohale&theme=aurora" width="100%" alt="GitHub activity stats for Smit Kohale" /> </p>
+A profile that moves
 
-Explore all repositories →
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
-</div>
-🛠️ Tech Stack
-<div align="center">
+<p align="center"> <img src="https://raw.githubusercontent.com/smitkohale/smitkohale/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" /> </p>
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+Set this up by running your profile once through GitSkins' README generator — it installs the GitHub Action that renders and commits this GIF for you.
 
-</div>
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=smitkohale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitkohale&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitkohale&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Graph
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smitkohale&theme=tokyo-night&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitkohale&theme=tokyo-night&hide_border=true" /> </picture> </div>
-<div align="center">
-
-Open to data analyst roles — always happy to talk data, dashboards, or fraud/anomaly detection.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=100&section=footer" width="100%"/> </div>
+Current focus
+<p align="center"> <img src="https://www.gitskins.com/api/section/highlights?username=smitkohale&theme=aurora&items=Data%20analytics::Turning%20high-volume%20data%20into%20decisions|Fraud%20%26%20anomaly%20detection::Graph%20%2B%20ML%20approaches%20to%20trust%20%26%20safety|Geospatial%20analytics::Satellite%20imagery%20and%20remote%20sensing%20pipelines" width="100%" alt="Current focus areas for Smit Kohale" /> </p> <p align="center"> <a href="https://github.com/smitkohale?tab=repositories">See all repositories</a> &nbsp;·&nbsp; <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a> </p> <p align="center"> <sub>Designed with GitSkins. Built in public.</sub> </p>
