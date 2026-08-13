@@ -1,167 +1,124 @@
 <p align="center">
-  <img src="https://nvlabs.github.io/SPADE//images/ocean.gif" width="100%" alt="Animated ocean" />
-</p>
-
-<h1 align="center">🌊 Smit Kohale 🐬</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=26&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+%26+Analytics;Geospatial+Analytics;Fraud+%26+Anomaly+Detection;Applied+Machine+Learning"
-    alt="Animated introduction"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Smit Kohale" />
+  </picture>
 </p>
 
 <p align="center">
-  🌊 🫧 🐠 🫧 🐬 🫧 🌱 🫧 🌊
-</p>
-
----
-
-# 🌊 About Me
-
-<p align="center">
-  <img src="https://nvlabs.github.io/SPADE//images/ocean.gif" width="75%" alt="Animated ocean" />
-</p>
-
-<h3 align="center">🌱 Turning messy real-world data into useful decisions.</h3>
-
-<p align="center">
-  I'm a <b>Computer Science graduate</b> based in Nagpur, India,
-  focused on <b>Data Analytics, Geospatial Analytics and Applied Machine Learning.</b>
+  <a href="https://github.com/smitkohale/review-authenticity-engine"><b>review-authenticity-engine</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com">GitSkins</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/smitkohale?tab=repositories">Projects</a>
 </p>
 
 <p align="center">
-  I work with messy datasets, satellite imagery, transactions and review data
-  to uncover patterns, detect anomalies and build useful analytical systems.
+  <img src="https://www.gitskins.com/api/section/wordmark?username=smitkohale&theme=aurora&label=Smit%20Kohale" width="100%" alt="Animated 3D wordmark for Smit Kohale" />
+</p>
+
+## Turning messy data into useful decisions
+
+I'm a **Computer Science graduate based in Nagpur, India**, focused on **data analytics, geospatial analytics, and applied machine learning**. I have experience building analytics solutions using **Python and SQL**, with work spanning satellite imagery, review authenticity, financial analytics, data preparation, machine learning, and interactive dashboards.
+
+My work focuses on turning complex, high-volume data into practical insights through analytical pipelines, anomaly detection, and data-driven applications.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=smitkohale&theme=aurora&mode=dark" width="100%" alt="About Smit Kohale" />
+  </picture>
+</p>
+
+## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=smitkohale&theme=aurora" width="100%" alt="Selected projects by Smit Kohale" />
+</p>
+
+| Project | What it is |
+|---|---|
+| [APGuard](https://github.com/smitkohale/apguard) | Accounts Payable leakage and contract-compliance analytics system with 8 business validation rules, a PostgreSQL data model, ETL pipeline, FastAPI backend, and Streamlit dashboard across 50,000+ synthetic invoices and related transaction data. |
+| [SentraScope](https://github.com/smitkohale/sentrascope) | Environmental analytics platform integrating live AQI, NASA FIRMS thermal hotspots, OpenUV, and Google Earth Engine urbanization data into a unified district-scale monitoring dashboard. |
+| [Review Authenticity Engine](https://github.com/smitkohale/review-authenticity-engine) | Two-layer fraud and collusion detection system combining a fine-tuned DistilBERT classifier with reviewer graph analysis, Louvain community detection, and SHAP explanations. |
+
+<p align="center">
+  <a href="https://github.com/smitkohale/apguard"><b>Explore APGuard</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/smitkohale/sentrascope"><b>Explore SentraScope</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/smitkohale/review-authenticity-engine"><b>Explore Review Authenticity Engine</b></a>
+</p>
+
+## Experience
+
+### Research Data Analyst — MRSAC
+
+Worked with multi-temporal satellite imagery across **15+ Maharashtra districts** using Google Earth Engine to map urban expansion over a five-year window.
+
+Built an early-warning module using LULC change detection to surface high-priority encroachment hotspots and reduce manual analyst review. Integrated live AQI, thermal-anomaly, and UV data into an analytics backend and added a natural-language query layer using OpenAI for non-technical users.
+
+### Data Analyst Intern — Dealintra Infotech
+
+Processed **50,000+ e-commerce reviews** through an NLP analytics pipeline covering preprocessing, TF-IDF extraction, model evaluation, and authenticity prediction.
+
+Combined review timing, seller relationships, linguistic patterns, and model predictions to identify coordinated manipulation. Developed interactive dashboards covering authenticity scores, seller credibility, and suspicious activity for fraud investigation.
+
+## Engineering signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=smitkohale&theme=aurora" width="100%" alt="Technology stack for Smit Kohale" />
 </p>
 
 <p align="center">
-  🌊 Data Analytics &nbsp; • &nbsp;
-  🛰️ Geospatial Analytics &nbsp; • &nbsp;
-  🔎 Fraud Detection &nbsp; • &nbsp;
-  🤖 Applied ML &nbsp; • &nbsp;
-  📊 Business Intelligence
+  <img src="https://www.gitskins.com/api/section/stats?username=smitkohale&theme=aurora" width="100%" alt="GitHub activity stats for Smit Kohale" />
 </p>
 
----
+## Technology
 
-# 🫧 My Data Ocean
+<p align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="160">
-      🌊
-      <br><br>
-      <b>Python</b>
-      <br>
-      Pandas · NumPy
-    </td>
-    <td align="center" width="160">
-      🐬
-      <br><br>
-      <b>SQL</b>
-      <br>
-      MySQL · PostgreSQL
-    </td>
-    <td align="center" width="160">
-      🌱
-      <br><br>
-      <b>BI</b>
-      <br>
-      Power BI · Excel
-    </td>
-    <td align="center" width="160">
-      🛰️
-      <br><br>
-      <b>Geospatial</b>
-      <br>
-      Earth Engine · Sentinel-2
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,fastapi,pytorch,git,github&theme=light" />
 
----
+</p>
 
-# 🐠 Selected Projects
+<p align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/SQL-005C97?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NetworkX-0077B5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
-## 🌱 APGuard
+</p>
 
-### Accounts Payable Leakage Detection
+## A profile that moves
 
-Rule-based analytics engine designed to identify suspicious invoice activity and contract-compliance violations.
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
-**Detects**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smitkohale/smitkohale/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+</p>
 
-- Duplicate invoices
-- Price violations
-- Quantity mismatches
-- Contract violations
-- Suspicious payment patterns
+> Set this up by running your profile once through [GitSkins' README generator](https://www.gitskins.com/readme-generator) — it installs the GitHub Action that renders and commits this GIF for you.
 
-**Stack**
+## Current focus
 
-`Python` `SQL` `FastAPI` `Pandas` `Streamlit`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=smitkohale&theme=aurora&items=Data%20analytics::Python%20and%20SQL-driven%20analysis%20and%20business%20insights|Fraud%20%26%20anomaly%20detection::NLP%2C%20graph%20analytics%2C%20and%20machine%20learning|Geospatial%20analytics::Satellite%20imagery%2C%20remote%20sensing%2C%20and%20LULC%20change%20detection" width="100%" alt="Current focus areas for Smit Kohale" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/smitkohale?tab=repositories">See all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.gitskins.com/readme-generator">Build a profile like this</a>
+</p>
 
-<a href="https://github.com/smitkohale/apguard">
-  <img src="https://img.shields.io/badge/🌊_EXPLORE_APGUARD-0077B5?style=for-the-badge" />
-</a>
-
-    </td>
-
-    <td width="50%" valign="top">
-
-## 🛰️ SentraScope
-
-### Environmental Analytics
-
-Geospatial monitoring platform combining environmental APIs and satellite-derived urbanization data.
-
-**Includes**
-
-- AQI
-- NASA FIRMS
-- UV
-- Sentinel-2
-- Google Earth Engine
-- Urban expansion
-
-**Stack**
-
-`Python` `GEE` `Leaflet` `JavaScript`
-
-<br>
-
-<a href="https://github.com/smitkohale/sentrascope">
-  <img src="https://img.shields.io/badge/🌱_EXPLORE_SENTRASCOPE-16A085?style=for-the-badge" />
-</a>
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-## 🐠 Review Authenticity Engine
-
-### Fraud & Collusion Detection
-
-ML + graph-based system for detecting potentially manipulated reviews and coordinated reviewer behavior.
-
-```text
-Review
-   ↓
-NLP
-   ↓
-Classifier
-   ↓
-Reviewer Graph
-   ↓
-Community Detection
-   ↓
-Suspicious Clusters
+<p align="center">
+  <sub>Designed with GitSkins. Built in public.</sub>
+</p>
