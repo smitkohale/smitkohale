@@ -1,20 +1,18 @@
 <!-- ============================================================
 Smit Kohale — Autumn-Themed GitHub Profile README
 Fixes applied:
-- Closed unterminated code fences, fixed broken badge logos
+- Replaced broken starting leaf images with reliable capsule-render wave
+- Fixed broken badge logos (removed invalid shields.io "logo=" values)
 - Standardized autumn gradient palette throughout
-- Replaced invalid shields.io logo names with valid ones
 - Fixed inconsistent indentation so HTML renders as content
-- Expanded README with more sections matching resume
+- Expanded README with collapsible sections and more content matching resume
 - Updated project links to real repos from resume
-- Improved formatting and added collapsible-style sections
+- Added About Me, Tech Stack, Projects, Stats, Trophy, Connect sections
 ============================================================ -->
 
-<!-- FALLING LEAVES -->
+<!-- AUTUMN GRADIENT DIVIDER (replaces falling leaves at start) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,22,25,27,30&height=100&section=header" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION HEADER -->
@@ -22,11 +20,6 @@ Fixes applied:
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=D97706&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%8D%81%2C+I'm+Smit+Vijay+Kohale;Data+Analyst+%7C+ML+Engineer;Building+with+Python%2C+SQL+%26+Satellites;Turning+Data+into+Autumn+Gold+%F0%9F%8D%82" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- AUTUMN GRADIENT DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,22,25,27,30&height=180&section=header" width="100%" />
 </p>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
@@ -43,16 +36,17 @@ Fixes applied:
   </a>
 </p>
 
-<div align="center">
-🍂 About Me
-</div>
+<!-- ABOUT ME (collapsible) -->
+<details align="center">
+  <summary>🍂 About Me</summary>
+  <p>
+    Computer Science graduate with two data analytics internships and hands-on experience building analytics solutions using Python and SQL. 
+    Worked on projects spanning geospatial monitoring, review authenticity, and financial analytics, covering data preparation, machine learning, 
+    and interactive dashboards. Passionate about turning raw data into actionable insights, much like discovering autumn gold in every dataset.
+  </p>
+</details>
 
-<p align="center">
-  Computer Science graduate with two data analytics internships and hands-on experience building analytics solutions using Python and SQL. 
-  Worked on projects spanning geospatial monitoring, review authenticity, and financial analytics, covering data preparation, machine learning, 
-  and interactive dashboards. Passionate about turning raw data into actionable insights, much like discovering autumn gold in every dataset.
-</p>
-
+<!-- TECH STACK -->
 <div align="center">
 🍁 Tech Stack — Painted in Autumn
 </div>
@@ -88,6 +82,7 @@ Fixes applied:
 
 <br/>
 
+<!-- FEATURED PROJECTS -->
 <div align="center">
 🎃 Featured Projects — Harvest Season
 </div>
@@ -139,6 +134,7 @@ Fixes applied:
   </tr>
 </table>
 
+<!-- GITHUB STATS -->
 <div align="center">
 📊 GitHub Stats — Autumn Analytics
 </div>
@@ -147,16 +143,19 @@ Fixes applied:
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitkohale&theme=dark&background=1a120b&stroke=d84315&ring=e65100&fire=ff6f00&currStreakLabel=e65100&sideLabels=ffcc80&currStreakNum=ffcc80&sideNums=ffcc80&dates=8d6e63" width="70%" />
 
+<!-- TROPHY CABINET -->
 <div align="center">
 🏆 Trophy Cabinet
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=smitkohale&theme=gruvbox&no-frame=true&column=7&margin-w=10&margin-h=10&title_color=e65100&text_color=ffcc80&icon_color=bf360c&bg_color=1a120b" width="100%" />
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 🍂 Contribution Graph — Falling Leaves
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitkohale&bg_color=1a120b&color=ffcc80&line=e65100&point=bf360c&area=true&area_color=d84315&hide_border=false&border_color=d84315" width="95%" />
 
+<!-- CONNECT WITH ME -->
 <div align="center">
 🦊 Connect With Me
 </div>
@@ -173,12 +172,6 @@ Fixes applied:
 <a href="https://github.com/smitkohale">
   <img src="https://img.shields.io/badge/GitHub-Follow-3e2723?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="40" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Leaf%20Fluttering%20in%20Wind.png" width="40" />
-</p>
 
 <!-- FOOTER WAVE -->
 <p align="center">
