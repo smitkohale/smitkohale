@@ -1,138 +1,207 @@
-# Smit Vijay Kohale
+# 👋 Hi, I'm Smit Vijay Kohale
 
-**Computer Science Graduate | Data Analyst | Python Enthusiast**  
-Nagpur, Maharashtra, India 🇮🇳
+### Computer Science Graduate | Data Analyst | Python Enthusiast
 
----
-
-## 📊 Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| 🎓 Education | B.E. Computer Science & Engineering |
-| 💼 Internships | 2 Roles |
-| 📁 Projects | 3 Major |
-| 🛠️ Skills | 15+ Technologies |
-| 📧 Email | smit.v.kohale@gmail.com |
-
----
-
-## 💡 Tech Stack
-
-<div align="center">
-
-### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-SQL-051227?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <a href="mailto:smit.v.kohale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-smit.v.kohale%40gmail.com-00d4aa?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/smit-kohale/">
+    <img src="https://img.shields.io/badge/LinkedIn-Smit%20Kohale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/smitkohale">
+    <img src="https://img.shields.io/badge/GitHub-smitkohale-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### Data Analysis & ML
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-</p>
+---
 
-### Visualization & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/-Git-F44F24?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+## 📊 Profile Overview
 
-</div>
+| 📊 Projects | 💼 Internships | 🛠️ Skills | 🌍 Location |
+|:---:|:---:|:---:|:---:|
+| **12** | **2** | **15** | **Nagpur, India** |
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Technical Skills
 
-### [APGuard — Accounts Payable Leakage Detection](https://github.com/smitkohale/APGuard)
-<div align="center">
-  
-<p>Built a rule-based analytics system to identify payment leakage and contract compliance issues across Accounts Payable transactions.</p>
-  
-<p><b>Tech Stack:</b> Python · PostgreSQL · FastAPI · SQLAlchemy · Pandas · Streamlit · Plotly · pytest</p>
-  
-<p>✅ Generated synthetic dataset of 50,000+ invoices<br>
-✅ 8 business validation rules for duplicate payments, contract checks, tax validation<br>
-✅ Automated pytest coverage for edge cases</p>
+### Data & Analytics
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-### [SentraScope — Environmental Analytics](https://github.com/smitkohale/Sentrascope)
-<div align="center">
-  
-<p>Environmental analytics platform integrating live air quality, NASA thermal-hotspot, OpenUV, and Earth Engine urbanization data.</p>
-  
-<p><b>Tech Stack:</b> React · TypeScript · Node.js/Express · PostgreSQL · Google Earth Engine</p>
-  
-<p>✅ JWT auth with Brevo email verification<br>
-✅ Drizzle ORM with Supabase<br>
-✅ Scheduled report emails and configurable alerts</p>
+### Machine Learning & AI
 
-</div>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-00d4aa?style=flat-square)
 
-### [Review Authenticity Engine](https://github.com/smitkohale/review-authenticity-engine)
-<div align="center">
-  
-<p>Two-layer fraud detection system with fine-tuned DistilBERT classifier and reviewer graph analysis using NetworkX.</p>
-  
-<p><b>Tech Stack:</b> PyTorch · Hugging Face Transformers · NetworkX · SHAP · Streamlit</p>
-  
-<p>✅ 100% recall on template/combinatorial fake tiers<br>
-✅ Louvain community detection uncovered 132 dense clusters<br>
-✅ SHAP-based explanations for predictions</p>
+### Development & Data Engineering
 
-</div>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Analytics-00d4aa?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-Data%20Engineering-0088aa?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 
 ---
 
-## 💼 Work Experience
+# 🚀 Featured Projects
 
-### Research Data Analyst — MRSAC
-**Dec 2025 – Mar 2026** | Nagpur, Maharashtra
+## 🧾 APGuard — Accounts Payable Leakage Detection
 
-- Processed multi-temporal satellite imagery across 15+ Maharashtra districts on Google Earth Engine to map urban expansion over a 5-year window
-- Built an early-warning module flagging encroachment hotspots via LULC change-detection, cutting analyst review effort
-- Piped live AQI, thermal-anomaly, and UV data into analytics backend; added natural-language query layer (via OpenAI)
+A rule-based analytics system designed to identify payment leakage and contract compliance issues across Accounts Payable transactions.
 
-### Data Analyst Intern — Dealintra Infotech Pvt. Ltd.
-**May 2025 – Jun 2025** | Nagpur, Maharashtra
+### Highlights
 
-- Processed 50,000+ e-commerce reviews through NLP pipeline (preprocessing, TF-IDF extraction, model evaluation) to predict review authenticity
-- Built review analytics pipeline identifying coordinated manipulation by combining review timing, seller relationships, and linguistic patterns
-- Developed interactive dashboards surfacing authenticity scores, seller-credibility metrics, and suspicious activity
+- Generated a synthetic dataset of **50,000+ invoices**
+- Implemented **8 business validation rules**
+- Identified potential payment leakage and compliance violations
+- Built analytics and visualization layers for investigation
 
----
+### Tech Stack
 
-## 🎓 Education
+`Python` `PostgreSQL` `FastAPI` `Streamlit` `Plotly`
 
-**B.E. — Computer Science & Engineering** (2022 – 2026)  
-SB Jain Institute of Management & Research, Nagpur
-
-*Relevant coursework: Machine Learning, Database Systems, Data Warehousing, Computer Networks*
-
-**12th (HSC)** — Taywade College, Nagpur, 2022  
-**10th (SSC)** — Hadas High School, Nagpur, 2020
+🔗 **[View on GitHub](https://github.com/smitkohale/APGuard)**
 
 ---
 
-## 🏆 Certifications
+## 🌍 SentraScope — Environmental Analytics
 
-- ✅ **Ask Questions to Make Data-Driven Decisions** — Coursera, Oct 2025
-- 📊 **Big Data Computing** — NPTEL (IIT), 78%
+Environmental analytics platform integrating live environmental data with satellite-based urbanization analysis.
+
+### Highlights
+
+- Integrated live **air quality** data
+- Integrated **NASA thermal hotspot** information
+- Integrated **OpenUV** data
+- Integrated **Google Earth Engine** urbanization analysis
+- PostgreSQL database architecture
+- Drizzle ORM and Supabase integration
+
+### Tech Stack
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Google Earth Engine`
+
+🔗 **[GitHub Repository](https://github.com/smitkohale/Sentrascope)**  
+🌐 **[Live Demo](https://sentrascope.onrender.com/)**
 
 ---
 
-## 📫 Connect With Me
+## 🕵️ Review Authenticity Engine
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-kohale/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smitkohale)
-[![Email](https://img.shields.io/badge/-Email-D1495B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smit.v.kohale@gmail.com)
+A two-layer review fraud detection system combining NLP classification with reviewer graph analysis.
+
+### Highlights
+
+- Fine-tuned **DistilBERT** classifier
+- Reviewer relationship analysis using **NetworkX**
+- Explainability using **SHAP**
+- Achieved **100% recall on template/combinatorial tiers**
+- Designed to identify suspicious review behavior and coordinated manipulation
+
+### Tech Stack
+
+`PyTorch` `Hugging Face` `NetworkX` `SHAP` `Streamlit`
+
+🔗 **[GitHub Repository](https://github.com/smitkohale/review-authenticity-engine)**  
+🤗 **[Hugging Face Model](https://huggingface.co/Smitvkohale/review-authenticity-engine)**
 
 ---
 
-*Last updated: August 2026*
+# 💼 Work Experience
+
+## Research Data Analyst
+
+**MRSAC — Maharashtra Remote Sensing Application Centre**  
+📍 Nagpur, Maharashtra  
+📅 December 2025 – March 2026
+
+- Processed multi-temporal satellite imagery across **15+ Maharashtra districts** using Google Earth Engine to map urban expansion over a 5-year window.
+- Built an early-warning module flagging encroachment hotspots through LULC change detection, surfacing high-priority areas for analyst review.
+- Integrated live **AQI, thermal-anomaly, and UV data** into an analytics backend.
+- Added a natural-language query layer using OpenAI for plain-English analytical queries.
+
+---
+
+## Data Analyst Intern
+
+**Dealintra Infotech Pvt. Ltd.**  
+📍 Nagpur, Maharashtra  
+📅 May 2025 – June 2025
+
+- Processed **50,000+ e-commerce reviews** through an NLP pipeline involving preprocessing, TF-IDF extraction, and model evaluation.
+- Built a review analytics pipeline to identify coordinated manipulation using review timing, seller relationships, linguistic patterns, and model predictions.
+- Developed interactive dashboards displaying authenticity scores, seller credibility metrics, and suspicious activity for fraud investigation.
+
+---
+
+# 🎓 Education
+
+## B.E. — Computer Science & Engineering
+
+**SB Jain Institute of Management & Research, Nagpur**
+
+**2022 – 2026**
+
+### Relevant Coursework
+
+- Machine Learning
+- Database Systems
+- Data Warehousing
+- Computer Networks
+
+### Higher Secondary
+
+**Taywade College, Nagpur — 2022**
+
+### Secondary School
+
+**Hadas High School, Nagpur — 2020**
+
+---
+
+# 📜 Certifications
+
+### Ask Questions to Make Data-Driven Decisions
+**Coursera — October 2025**
+
+### Big Data Computing
+**NPTEL (IIT) — 78%**
+
+---
+
+# 📈 What I Work With
+
+```text
+Data Analytics
+    ├── Python
+    ├── SQL
+    ├── Power BI
+    ├── R
+    └── Plotly
+
+Machine Learning
+    ├── Scikit-learn
+    ├── PyTorch
+    ├── Hugging Face
+    └── SHAP
+
+Data Engineering
+    ├── ETL
+    ├── PostgreSQL
+    └── FastAPI
+
+Specialized Analytics
+    ├── NLP
+    ├── Graph Analytics
+    ├── Fraud Detection
+    └── Geospatial Analytics
