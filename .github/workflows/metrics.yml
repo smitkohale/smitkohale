@@ -29,10 +29,6 @@ jobs:
           plugin_languages_limit: 8
  
           
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          
-
           config_display: large
           plugin_lines: yes
  
