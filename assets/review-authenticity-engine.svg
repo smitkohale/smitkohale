@@ -1,0 +1,52 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Review Authenticity Engine">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a120b"/>
+      <stop offset="100%" stop-color="#2a1a10"/>
+    </linearGradient>
+    <linearGradient id="border2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd591">
+        <animate attributeName="stop-color" values="#ffd591;#ff8f3f;#d84315;#ff8f3f;#ffd591" dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff8f3f">
+        <animate attributeName="stop-color" values="#ff8f3f;#d84315;#ffd591;#d84315;#ff8f3f" dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#d84315">
+        <animate attributeName="stop-color" values="#d84315;#ffd591;#ff8f3f;#ffd591;#d84315" dur="3.8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="6" y="6" width="468" height="288" rx="18" fill="url(#bg2)"/>
+
+  <rect x="6" y="6" width="468" height="288" rx="18" fill="none"
+        stroke="url(#border2)" stroke-width="3" filter="url(#glow2)">
+    <animate attributeName="stroke-width" values="2.5;4;2.5" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="30" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffe0b2">🔍  Review Authenticity Engine</text>
+  <text x="30" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#d7a373">Fraud &amp; Collusion Detection</text>
+
+  <line x1="30" y1="84" x2="450" y2="84" stroke="#5d4037" stroke-width="1"/>
+
+    <text x="30" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• DistilBERT: 100% recall on template fakes,</text>
+    <text x="30" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• 99.3% on paraphrased fakes</text>
+    <text x="30" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• Reviewer graph → 132 collusion clusters</text>
+
+    <rect x="24" y="210" width="122" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="85.0" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">PyTorch</text>
+    <rect x="154" y="210" width="178" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="243.0" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">HuggingFace</text>
+    <rect x="24" y="238" width="136" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="92.0" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">NetworkX</text>
+    <rect x="168" y="238" width="80" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="208.0" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">SHAP</text>
+</svg>

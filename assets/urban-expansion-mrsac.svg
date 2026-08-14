@@ -1,0 +1,50 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Urban Expansion Monitor">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a120b"/>
+      <stop offset="100%" stop-color="#2a1a10"/>
+    </linearGradient>
+    <linearGradient id="border3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd591">
+        <animate attributeName="stop-color" values="#ffd591;#ff8f3f;#d84315;#ff8f3f;#ffd591" dur="4.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff8f3f">
+        <animate attributeName="stop-color" values="#ff8f3f;#d84315;#ffd591;#d84315;#ff8f3f" dur="4.2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#d84315">
+        <animate attributeName="stop-color" values="#d84315;#ffd591;#ff8f3f;#ffd591;#d84315" dur="4.2s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow3" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="6" y="6" width="468" height="288" rx="18" fill="url(#bg3)"/>
+
+  <rect x="6" y="6" width="468" height="288" rx="18" fill="none"
+        stroke="url(#border3)" stroke-width="3" filter="url(#glow3)">
+    <animate attributeName="stroke-width" values="2.5;4;2.5" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="30" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffe0b2">🛰️  Urban Expansion Monitor</text>
+  <text x="30" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#d7a373">LULC Change Detection, 15+ Districts</text>
+
+  <line x1="30" y1="84" x2="450" y2="84" stroke="#5d4037" stroke-width="1"/>
+
+    <text x="30" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• Multi-temporal imagery → urban growth maps</text>
+    <text x="30" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• Early-warning system for encroachment</text>
+    <text x="30" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#e8c9a0">• Natural-language query layer for staff</text>
+
+    <rect x="24" y="210" width="290" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="169.0" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">Google Earth Engine</text>
+    <rect x="24" y="238" width="220" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="134.0" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">Remote Sensing</text>
+    <rect x="252" y="238" width="164" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="334.0" y="253" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#ffcc80" text-anchor="middle">OpenAI API</text>
+</svg>
