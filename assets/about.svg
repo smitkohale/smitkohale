@@ -1,0 +1,164 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Smit Kohale">
+  <defs>
+    <linearGradient id="bgabout2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a120b"/>
+      <stop offset="100%" stop-color="#2a1a10"/>
+    </linearGradient>
+    <linearGradient id="borderabout2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd591">
+        <animate attributeName="stop-color" values="#ffd591;#ff8f3f;#d84315;#ff8f3f;#ffd591" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff8f3f">
+        <animate attributeName="stop-color" values="#ff8f3f;#d84315;#ffd591;#d84315;#ff8f3f" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#d84315">
+        <animate attributeName="stop-color" values="#d84315;#ffd591;#ff8f3f;#ffd591;#d84315" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glowabout2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clipabout2">
+      <rect x="6" y="6" width="888" height="508" rx="20"/>
+    </clipPath>
+    <path id="leafshapeabout2" d="M0,-9 C2,-7 3,-3 2,0 C4,-1 7,-1 8,2 C6,3 4,4 5,6 C3,5 1,5 0,7 C-1,5 -3,5 -5,6 C-4,4 -6,3 -8,2 C-7,-1 -4,-1 -2,0 C-3,-3 -2,-7 0,-9 Z M0,7 L0,13" />
+  </defs>
+
+  <rect x="6" y="6" width="888" height="508" rx="20" fill="url(#bgabout2)"/>
+
+  <g clip-path="url(#clipabout2)">
+
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ff8f3f" transform="scale(0.87)">
+        <animateMotion path="M351,-20 C310,182.0 362,364.0 324,540"
+                        dur="10.9s" begin="-0.8s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.1s" begin="-0.8s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#d84315" transform="scale(0.72)">
+        <animateMotion path="M539,-20 C506,182.0 458,364.0 512,540"
+                        dur="7.5s" begin="-3.1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.7s" begin="-3.1s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ffd591" transform="scale(0.89)">
+        <animateMotion path="M866,-20 C878,182.0 807,364.0 873,540"
+                        dur="12.7s" begin="-8.0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.2s" begin="-8.0s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ff6f00" transform="scale(0.74)">
+        <animateMotion path="M426,-20 C372,182.0 392,364.0 403,540"
+                        dur="7.3s" begin="-6.3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.4s" begin="-6.3s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#e65100" transform="scale(0.89)">
+        <animateMotion path="M604,-20 C583,182.0 657,364.0 597,540"
+                        dur="11.9s" begin="-2.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.9s" begin="-2.2s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ff8f3f" transform="scale(0.85)">
+        <animateMotion path="M119,-20 C129,182.0 45,364.0 138,540"
+                        dur="10.4s" begin="-6.4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.6s" begin="-6.4s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#d84315" transform="scale(0.72)">
+        <animateMotion path="M341,-20 C340,182.0 400,364.0 360,540"
+                        dur="12.5s" begin="-4.5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.5s" begin="-4.5s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ffd591" transform="scale(0.77)">
+        <animateMotion path="M269,-20 C219,182.0 326,364.0 277,540"
+                        dur="8.8s" begin="-4.4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.3s" begin="-4.4s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.55">
+      <use href="#leafshapeabout2" fill="#ff6f00" transform="scale(0.68)">
+        <animateMotion path="M94,-20 C49,182.0 135,364.0 66,540"
+                        dur="9.5s" begin="-7.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.5s" begin="-7.2s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+  </g>
+
+  <rect x="6" y="6" width="888" height="508" rx="20" fill="none"
+        stroke="url(#borderabout2)" stroke-width="3" filter="url(#glowabout2)">
+    <animate attributeName="stroke-width" values="2.5;4.5;2.5" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffe0b2">🍂  About Me</text>
+  <text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-style="italic" fill="#d7a373">Smit Vijay Kohale  ·  Data Analyst · Data Engineer · Applied ML</text>
+  <text x="40" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c99a6c">Nagpur, Maharashtra, India</text>
+
+  <line x1="40" y1="118" x2="860" y2="118" stroke="#5d4037" stroke-width="1"/>
+  <line x1="465" y1="135" x2="465" y2="490" stroke="#5d4037" stroke-width="1"/>
+
+    <text x="40" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">I turn messy, real-world data — satellite pixels,</text>
+    <text x="40" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">e-commerce reviews, financial transactions — into</text>
+    <text x="40" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">systems that catch what humans miss.</text>
+    <text x="40" y="226" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">I build the full pipeline: schema design, ETL, and</text>
+    <text x="40" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">the model on top, not just notebooks. At MRSAC I</text>
+    <text x="40" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">helped architect the backend that turns raw satellite</text>
+    <text x="40" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">imagery into a live early-warning system across 15+</text>
+    <text x="40" y="314" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">districts. At Dealintra, I built the graph + NLP</text>
+    <text x="40" y="336" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">pipeline that caught coordinated fake-review rings</text>
+    <text x="40" y="358" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">hiding inside 50,000+ reviews.</text>
+    <text x="40" y="390" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">I like problems where the interesting part isn't the</text>
+    <text x="40" y="412" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">model — it's the schema, the pipeline, the edge</text>
+    <text x="40" y="434" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">cases, and turning a prediction into something a</text>
+    <text x="40" y="456" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#e8c9a0">non-technical stakeholder can actually act on.</text>
+<text x="490" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffb74d">WHAT I BUILD</text>
+    <circle cx="498" cy="171" r="3" fill="#ff8f3f"/>
+    <text x="514" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">🛰️  Early-warning systems from</text>
+    <text x="514" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">satellite imagery</text>
+    <circle cx="498" cy="219" r="3" fill="#ff8f3f"/>
+    <text x="514" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">🗄️  ETL pipelines &amp; schemas for</text>
+    <text x="514" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">geospatial + txn data</text>
+    <circle cx="498" cy="267" r="3" fill="#ff8f3f"/>
+    <text x="514" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">🕸️  Graph models that expose</text>
+    <text x="514" y="292" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">collusion &amp; fraud rings</text>
+    <circle cx="498" cy="315" r="3" fill="#ff8f3f"/>
+    <text x="514" y="320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">🤖  NLP models fine-tuned for</text>
+    <text x="514" y="340" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#ffcc80">real-world edge cases</text>
+    <text x="490" y="382" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffb74d">CORE STACK</text>
+    <rect x="490" y="400" width="78" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="529.0" y="415" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">Python</text>
+    <rect x="576" y="400" width="51" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="601.5" y="415" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">SQL</text>
+    <rect x="635" y="400" width="114" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="692.0" y="415" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">PostgreSQL</text>
+    <rect x="490" y="430" width="195" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="587.5" y="445" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">Google Earth Engine</text>
+    <rect x="693" y="430" width="87" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="736.5" y="445" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">PyTorch</text>
+    <rect x="490" y="460" width="87" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="533.5" y="475" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">FastAPI</text>
+    <rect x="585" y="460" width="96" height="22" rx="11" fill="#2a1a10" stroke="#ff8f3f" stroke-opacity="0.6"/>
+    <text x="633.0" y="475" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#ffcc80" text-anchor="middle">NetworkX</text>
+</svg>
