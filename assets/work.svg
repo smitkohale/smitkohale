@@ -1,0 +1,161 @@
+<svg width="900" height="583" viewBox="0 0 900 583" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Work Experience">
+  <defs>
+    <linearGradient id="bgwork" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a120b"/>
+      <stop offset="100%" stop-color="#2a1a10"/>
+    </linearGradient>
+    <linearGradient id="borderwork" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd591">
+        <animate attributeName="stop-color" values="#ffd591;#ff8f3f;#d84315;#ff8f3f;#ffd591" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff8f3f">
+        <animate attributeName="stop-color" values="#ff8f3f;#d84315;#ffd591;#d84315;#ff8f3f" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#d84315">
+        <animate attributeName="stop-color" values="#d84315;#ffd591;#ff8f3f;#ffd591;#d84315" dur="4.5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glowwork" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clipwork">
+      <rect x="6" y="6" width="888" height="571" rx="20"/>
+    </clipPath>
+    <path id="leafshapework" d="M0,-9 C2,-7 3,-3 2,0 C4,-1 7,-1 8,2 C6,3 4,4 5,6 C3,5 1,5 0,7 C-1,5 -3,5 -5,6 C-4,4 -6,3 -8,2 C-7,-1 -4,-1 -2,0 C-3,-3 -2,-7 0,-9 Z M0,7 L0,13" />
+  </defs>
+
+  <rect x="6" y="6" width="888" height="571" rx="20" fill="url(#bgwork)"/>
+
+  <g clip-path="url(#clipwork)">
+    <path d="M825,80 C810,116.60000000000001 840,233.20000000000002 815,349.8 C800,437.25 835,495.55 825,543" stroke="#6d4c2c" stroke-width="2.5" fill="none" opacity="0.6"/>
+
+    <g transform="translate(841,117.75) rotate(-38) scale(1.1)" opacity="0.85">
+      <use href="#leafshapework" fill="#ff8f3f"/>
+    </g>
+    <g transform="translate(851,193.25) rotate(27) scale(0.98)" opacity="0.85">
+      <use href="#leafshapework" fill="#d84315"/>
+    </g>
+    <g transform="translate(803,268.75) rotate(16) scale(0.81)" opacity="0.85">
+      <use href="#leafshapework" fill="#ffb74d"/>
+    </g>
+    <g transform="translate(839,344.25) rotate(-27) scale(0.84)" opacity="0.85">
+      <use href="#leafshapework" fill="#e65100"/>
+    </g>
+    <g transform="translate(852,419.75) rotate(-38) scale(1.06)" opacity="0.85">
+      <use href="#leafshapework" fill="#ffd591"/>
+    </g>
+    <g transform="translate(850,495.25) rotate(-33) scale(0.9)" opacity="0.85">
+      <use href="#leafshapework" fill="#ff8f3f"/>
+    </g>
+
+    <g transform="translate(803,238.54999999999998)" opacity="0.8">
+      <ellipse cx="0" cy="6" rx="6" ry="8" fill="#a9754f"/>
+      <path d="M-7,-1 Q0,-9 7,-1 Q0,3 -7,-1 Z" fill="#6d4c2c"/>
+      <rect x="-1" y="-9" width="2" height="4" fill="#4e3524"/>
+    </g>
+    <g transform="translate(843,406.15999999999997)" opacity="0.8">
+      <ellipse cx="0" cy="6" rx="6" ry="8" fill="#a9754f"/>
+      <path d="M-7,-1 Q0,-9 7,-1 Q0,3 -7,-1 Z" fill="#6d4c2c"/>
+      <rect x="-1" y="-9" width="2" height="4" fill="#4e3524"/>
+    </g>
+
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#ff8f3f" transform="scale(0.68)">
+        <animateMotion path="M483,-20 C533,204.04999999999998 536,408.09999999999997 465,603"
+                        dur="13.1s" begin="-10.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="5.6s" begin="-10.2s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#d84315" transform="scale(0.57)">
+        <animateMotion path="M209,-20 C251,204.04999999999998 250,408.09999999999997 188,603"
+                        dur="10.9s" begin="-6.7s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.3s" begin="-6.7s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#ffd591" transform="scale(0.66)">
+        <animateMotion path="M112,-20 C120,204.04999999999998 199,408.09999999999997 129,603"
+                        dur="11.8s" begin="-7.0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.4s" begin="-7.0s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#ff6f00" transform="scale(0.53)">
+        <animateMotion path="M650,-20 C673,204.04999999999998 600,408.09999999999997 676,603"
+                        dur="11.7s" begin="-9.7s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.1s" begin="-9.7s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#e65100" transform="scale(0.74)">
+        <animateMotion path="M267,-20 C283,204.04999999999998 184,408.09999999999997 251,603"
+                        dur="12.7s" begin="-4.1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.6s" begin="-4.1s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#ff8f3f" transform="scale(0.76)">
+        <animateMotion path="M675,-20 C652,204.04999999999998 712,408.09999999999997 680,603"
+                        dur="8.0s" begin="-0.7s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="4.2s" begin="-0.7s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+    <g opacity="0.35">
+      <use href="#leafshapework" fill="#d84315" transform="scale(0.62)">
+        <animateMotion path="M880,-20 C830,204.04999999999998 855,408.09999999999997 899,603"
+                        dur="9.9s" begin="-2.3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0"
+                           dur="3.2s" begin="-2.3s" repeatCount="indefinite" additive="sum"/>
+      </use>
+    </g>
+  </g>
+
+  <rect x="6" y="6" width="888" height="571" rx="20" fill="none"
+        stroke="url(#borderwork)" stroke-width="3" filter="url(#glowwork)">
+    <animate attributeName="stroke-width" values="2.5;4.5;2.5" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="40" y="48" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffe0b2">💼  Work Experience</text>
+  <line x1="40" y1="62" x2="860" y2="62" stroke="#5d4037" stroke-width="1"/>
+
+    <text x="40" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffe0b2">🛰️  Research Data Analyst — MRSAC</text>
+    <text x="860" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c99a6c" text-anchor="end">Dec 2025 – Mar 2026</text>
+    <text x="40" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c99a6c">Maharashtra Remote Sensing Application Centre</text>
+    <text x="40" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-style="italic" fill="#d7a373">Mapped how 15+ districts are changing from space — and built the system that</text>
+    <text x="40" y="151" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-style="italic" fill="#d7a373">flags it before it becomes a problem.</text>
+    <circle cx="48" cy="173" r="3" fill="#ff8f3f"/>
+    <text x="64" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">🗺️  Mapped urban growth at scale — multi-temporal LULC change-detection on</text>
+    <text x="64" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">Google Earth Engine across 15+ Maharashtra districts over a 5-year window.</text>
+    <circle cx="48" cy="219" r="3" fill="#ff8f3f"/>
+    <text x="64" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">🚨  Built an early-warning module for encroachment hotspots, cutting analyst</text>
+    <text x="64" y="244" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">review effort by surfacing only the highest-priority areas.</text>
+    <circle cx="48" cy="265" r="3" fill="#ff8f3f"/>
+    <text x="64" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">💬  Piped live AQI, thermal-anomaly, and UV feeds into an analytics backend,</text>
+    <text x="64" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">layered with a natural-language query interface (via OpenAI) for</text>
+    <text x="64" y="310" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">non-technical staff.</text>
+    <line x1="40" y1="344" x2="770" y2="344" stroke="#5d4037" stroke-width="1"/>
+    <text x="40" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffe0b2">🔍  Data Analyst Intern — Dealintra Infotech Pvt. Ltd.</text>
+    <text x="860" y="372" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c99a6c" text-anchor="end">May 2025 – Jun 2025</text>
+    <text x="40" y="398" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-style="italic" fill="#d7a373">Given 50,000+ reviews and one question: which ones are real?</text>
+    <circle cx="48" cy="420" r="3" fill="#ff8f3f"/>
+    <text x="64" y="425" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">🧠  Built an NLP pipeline (preprocessing → TF-IDF → model evaluation) over</text>
+    <text x="64" y="445" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">50,000+ e-commerce reviews to predict authenticity.</text>
+    <circle cx="48" cy="466" r="3" fill="#ff8f3f"/>
+    <text x="64" y="471" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">🕸️  Combined review timing, seller relationships, and linguistic patterns to</text>
+    <text x="64" y="491" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">expose coordinated manipulation, not just individually suspicious reviews.</text>
+    <circle cx="48" cy="512" r="3" fill="#ff8f3f"/>
+    <text x="64" y="517" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">📊  Shipped interactive dashboards surfacing authenticity scores,</text>
+    <text x="64" y="537" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e8c9a0">seller-credibility metrics, and flagged activity for fraud investigation.</text>
+</svg>
