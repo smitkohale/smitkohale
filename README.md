@@ -83,7 +83,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,35:C2410C,70:EA9001,100:FACC15&height=140&section=header&text=Autumn%20Focus&fontSize=28&animation=wave&fontAlignY=28&fontColor=fff7ed" width="100%" alt="Autumn focus banner" />
+  <img src="./assets/autumn-road.jpg" width="100%" alt="Autumn road banner" />
 </p>
 
 <div align="center">
