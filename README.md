@@ -83,6 +83,63 @@
 </table>
 
 <div align="center">
+  <svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Autumn animation banner">
+    <defs>
+      <linearGradient id="autumnBanner" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#3b1f12"/>
+        <stop offset="50%" stop-color="#7c2d12"/>
+        <stop offset="100%" stop-color="#9a4d00"/>
+      </linearGradient>
+      <style>
+        .leaf { fill: #f59e0b; opacity: 0.8; }
+        .leaf2 { fill: #ef4444; opacity: 0.8; }
+        .leaf3 { fill: #f97316; opacity: 0.8; }
+        .fall { animation: fall 7s linear infinite; transform-origin: center; }
+        .fall2 { animation-delay: 1.8s; }
+        .fall3 { animation-delay: 3.4s; }
+        .fall4 { animation-delay: 5.1s; }
+        @keyframes fall {
+          0% { transform: translateY(-15px) rotate(0deg); opacity: 0; }
+          15% { opacity: 1; }
+          100% { transform: translateY(110px) rotate(240deg); opacity: 0; }
+        }
+      </style>
+    </defs>
+    <rect x="10" y="8" width="880" height="124" rx="18" fill="url(#autumnBanner)"/>
+    <text x="50%" y="54%" text-anchor="middle" font-family="Verdana, sans-serif" font-size="28" font-weight="700" fill="#fff7ed">Autumn focus</text>
+    <text x="50%" y="80%" text-anchor="middle" font-family="Verdana, sans-serif" font-size="14" fill="#fed7aa">Building, learning, and shipping ideas with a seasonal spark.</text>
+
+    <g class="fall">
+      <path class="leaf" d="M0,0 C10,-10 25,-10 30,0 C25,15 10,20 0,0 Z"/>
+    </g>
+    <g class="fall fall2">
+      <path class="leaf2" d="M25,0 C35,-12 52,-12 58,0 C52,18 36,22 25,0 Z"/>
+    </g>
+    <g class="fall fall3">
+      <path class="leaf3" d="M50,0 C60,-10 78,-10 84,0 C78,16 62,18 50,0 Z"/>
+    </g>
+    <g class="fall fall4">
+      <path class="leaf" d="M75,0 C85,-12 102,-12 108,0 C102,18 86,22 75,0 Z"/>
+    </g>
+    <g class="fall">
+      <path class="leaf2" d="M180,0 C190,-12 205,-12 212,0 C205,18 191,22 180,0 Z" transform="translate(150,0)"/>
+    </g>
+    <g class="fall fall2">
+      <path class="leaf3" d="M220,0 C232,-12 248,-12 254,0 C248,18 234,22 220,0 Z" transform="translate(230,0)"/>
+    </g>
+    <g class="fall fall3">
+      <path class="leaf" d="M260,0 C272,-10 288,-10 294,0 C288,16 274,20 260,0 Z" transform="translate(300,0)"/>
+    </g>
+    <g class="fall fall4">
+      <path class="leaf2" d="M320,0 C332,-12 348,-12 354,0 C348,18 334,22 320,0 Z" transform="translate(450,0)"/>
+    </g>
+    <g class="fall">
+      <path class="leaf3" d="M400,0 C410,-12 427,-12 433,0 C427,18 412,22 400,0 Z" transform="translate(620,0)"/>
+    </g>
+  </svg>
+</div>
+
+<div align="center">
   <h2>Certifications</h2>
 </div>
 
